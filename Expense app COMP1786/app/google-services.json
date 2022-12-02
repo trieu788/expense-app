@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718055319784",
+    "project_id": "trip-expense-e5af8",
+    "storage_bucket": "trip-expense-e5af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718055319784:android:75be076f6d514264de815d",
+        "android_client_info": {
+          "package_name": "com.example.myappfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718055319784-qk2g8oli0ilvu8o7gib63g57o5ms6l4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myappfirst",
+            "certificate_hash": "26414c0e1fbe237920202a4e0a34178ebf6c39ae"
+          }
+        },
+        {
+          "client_id": "718055319784-q0ujc7ob5ph5j37fgip6ete4l7608g04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVA5RNk_LUkCHu6jbH2moQW1DPKf-FVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718055319784-q0ujc7ob5ph5j37fgip6ete4l7608g04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
